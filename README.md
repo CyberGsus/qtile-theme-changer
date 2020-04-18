@@ -9,4 +9,4 @@ This will eventually become a gui theme changer for qtile themes. These themes a
 3. The program must let you load a complete theme from a directory and change it.
 4. The program should let you create a complete theme from scratch, and save it on a directory.
 5. The program should be able to index your themes from a directory, and display them as a list of available themes.
-6. Last but not least, the program should provide a command API for automated theme changing.
+6. Last but not least, the program should provide a qtile command API for automated theme changing.
