@@ -40,7 +40,7 @@ class RGBAColor:
 
     @classmethod
     def from_array(cls, arr):
-        if len(arr) not in  (3, 4):
+       if len(arr) not in  (3, 4):
             raise ValueError('Expected an array of length 3 or 4')
        obj = cls(0)
        obj.red = arr[0]
